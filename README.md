@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hritik-singh-50b355227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-singh-50b355227/" height="30" width="40" /></a>
 <a href="https://instagram.com/hritik_._singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hritik_._singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code learners" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code learners" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code_learners" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code learners" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/btech2021_hriti1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="btech2021_hriti1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hritik664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hritik664" height="30" width="40" /></a>
 </p>
