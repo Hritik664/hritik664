@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://mern-portfolio-app-yl06.onrender.com/](https://mern-portfolio-app-yl06.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://hritik-3dportfolio.netlify.app/)](https://hritik-3dportfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript ,react.js , node.js , MySQL , python , MongoDB , express.js**
 
